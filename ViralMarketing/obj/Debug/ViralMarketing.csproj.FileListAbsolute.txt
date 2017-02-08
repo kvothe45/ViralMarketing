@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\bin\Debug\ViralMarketing.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\obj\Debug\ViralMarketing.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\bin\Debug\ViralMarketing.exe
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\bin\Debug\ViralMarketing.pdb
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\obj\Debug\ViralMarketing.exe
+c:\users\texas\documents\visual studio 2015\Projects\ViralMarketing\ViralMarketing\obj\Debug\ViralMarketing.pdb
